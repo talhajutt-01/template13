@@ -1,0 +1,97 @@
+{
+    "title": {
+        "title": "Updated Ninom"
+    },
+
+    "header": {
+        "h0": "Updated Ninom"
+    },
+
+     "nav": {
+        "nav0": "home",
+        "nav1": "About",
+        "nav2": "Our Fruit",
+        "nav3": "Testimonial",
+        "nav4": "Contact Us",
+        "nav5": "Login"
+    },
+
+     "shop": {
+        "s0": " update Fruit shop",
+        "s1": "update There are many variations of passages of Lorem Ipsum available",
+        "s2": "Buy Now"
+    },
+
+     "about": {
+        "a0": "update About Our Fruit Shop",
+        "a1": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+        "a2": "Read More"
+    },
+
+      "fruit":{
+        "d0":"update Fresh Fruit",
+        "d1":"Orange",
+        "d2":"Buy Now",
+        "d3":"update Blueberry",
+        "d4":"Buy Now",
+        "d5":"Banana",
+        "d6":"Buy Now",
+        "d7":"Apple",
+        "d8":"Buy Now",
+        "d9":"Mango",
+        "d10":"Buy Now",
+        "d11":"Strawberry",
+        "d12":"Buy Now"
+     },
+
+     "client" : {
+        "t0":"updated  What Syas Cutomer",
+        "t1":" update Jone Mark",
+        "t2":"consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "t3":"Lorem ipsum dolor sit amet,",
+        "t4":" update Jone Mark",
+        "t5":"consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "t6":"Lorem ipsum dolor sit amet,",
+        "t7":"update Jone Mark",
+        "t8":"consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
+        "t9":"Lorem ipsum dolor sit amet,"
+     },
+
+      "info": {
+        "c0": "updaet NiNom", 
+        "c1": "Passages of Lorem Ipsum available",
+        "c2": "Call : +012334567890",
+        "c3": "demo@gmail.com"
+    },
+
+     "footer" : {
+       "f0":"Copyright 2019 All Right Reserved By",
+        "f1":"Free html  Templates"
+     },
+
+      "images": {
+        "img1": "images/slider-img.jpg",
+        "img2": "images/slider-img.jpg",
+        "img3": "images/slider-img.jpg",
+        "img4": "images/shop-img.jpg",
+        "img5": "images/about-img.jpg",
+        "img6": "images/f-1.jpg",
+        "img7": "images/f-2.jpg",
+        "img8": "images/f-3.jpg",
+        "img9": "images/f-4.jpg",
+        "img10": "images/f-5.jpg",
+        "img11": "images/f-6.jpg",
+        "img12": "images/client-img.png",
+        "img13": "images/left-quote.png",
+        "img14": "images/right-quote.png",
+        "img15": "images/client-img.png",
+        "img16": "images/left-quote.png",
+        "img17": "images/right-quote.png",
+        "img18": "images/client-img.png",
+        "img19": "images/left-quote.png",
+        "img20": "images/right-quote.png"
+    }
+
+
+
+}    
