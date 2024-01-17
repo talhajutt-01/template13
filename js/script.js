@@ -53,6 +53,13 @@ const c3 = document.getElementById('c3');
 const f0 = document.getElementById('f0');
 const f1 = document.getElementById('f1');
 
+const g0 = document.getElementById('nav');
+const g1 = document.getElementById('shop');
+const g2 = document.getElementById('about');
+const g3 = document.getElementById('friut');
+const g4 = document.getElementById('client');
+const g5 = document.getElementById('info');
+const g6 = document.getElementById('footer');
 
 const img1 = document.getElementById('img1');
 const img2 = document.getElementById('img2');
@@ -92,7 +99,10 @@ function updateContent(element, newValue) {
     // Update the src attribute of the image element
     imageElement.src = newSrc;
 }
-
+function updateBackgroundColor(element, newColor) {
+    // Update the background color for the element
+    element.style.backgroundColor = newColor;
+  }
   
   // Fetch JSON data from the text file
   function updatePageContent(pageName) {
@@ -156,6 +166,13 @@ function updateContent(element, newValue) {
             updateContent(f0, jsonData.footer.f0);
             updateContent(f1, jsonData.footer.f1);
     
+            updateBackgroundColor(g0, jsonData.color.nav);
+            updateBackgroundColor(g1, jsonData.color.shop);
+            updateBackgroundColor(g2, jsonData.color.about);
+            updateBackgroundColor(g3, jsonData.color.fruit);
+            updateBackgroundColor(g4, jsonData.color.client);
+            updateBackgroundColor(g5, jsonData.color.info);
+            updateBackgroundColor(g6, jsonData.color.footer);
          
             updateImageSrc(img1, jsonData.images.img1);
             updateImageSrc(img2, jsonData.images.img2);

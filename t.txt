@@ -8,7 +8,7 @@
     },
 
      "nav": {
-        "nav0": "home",
+        "nav0": "Home",
         "nav1": "About",
         "nav2": "Our Fruit",
         "nav3": "Testimonial",
@@ -67,6 +67,16 @@
      "footer" : {
        "f0":"Copyright 2019 All Right Reserved By",
         "f1":"Free html  Templates"
+     },
+
+     "color":{
+        "nav":"grey",
+        "shop":"red",
+        "about":"grey",
+        "friut":"red",
+        "client":"red",
+        "info":"grey",
+        "footer":"red"
      },
 
       "images": {
