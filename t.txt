@@ -77,31 +77,5 @@
         "client":"red",
         "info":"grey",
         "footer":"red"
-     },
-
-      "images": {
-        "img1": "images/slider-img.jpg",
-        "img2": "images/slider-img.jpg",
-        "img3": "images/slider-img.jpg",
-        "img4": "images/shop-img.jpg",
-        "img5": "images/about-img.jpg",
-        "img6": "images/f-1.jpg",
-        "img7": "images/f-2.jpg",
-        "img8": "images/f-3.jpg",
-        "img9": "images/f-4.jpg",
-        "img10": "images/f-5.jpg",
-        "img11": "images/f-6.jpg",
-        "img12": "images/client-img.png",
-        "img13": "images/left-quote.png",
-        "img14": "images/right-quote.png",
-        "img15": "images/client-img.png",
-        "img16": "images/left-quote.png",
-        "img17": "images/right-quote.png",
-        "img18": "images/client-img.png",
-        "img19": "images/left-quote.png",
-        "img20": "images/right-quote.png"
-    }
-
-
-
+     }
 }    
