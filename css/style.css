@@ -5,7 +5,7 @@ body {
 }
 
 .layout_padding {
-  padding: 90px 0;
+  padding: 60px 0;
 }
 
 .layout_padding2 {
@@ -14,6 +14,11 @@ body {
 
 .layout_padding2-top {
   padding-top: 45px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: -10%;
+  margin-right: 5%;
 }
 
 .layout_padding2-bottom {
@@ -25,7 +30,7 @@ body {
 }
 
 .layout_padding-bottom {
-  padding-bottom: 90px;
+  padding-bottom: 30px;
 }
 
 /*header section*/
@@ -141,7 +146,7 @@ a:focus {
 
 /* end slider section */
 .nav_section {
-  margin-top: -32px;
+ background-color: #252525;
 }
 
 .nav_section .custom_nav2 .custom_nav-container {
@@ -495,6 +500,9 @@ a:focus {
 
 .contact_section .heading_container h2 {
   margin: 0;
+}
+.heading_container{
+  margin-left: 10%;
 }
 
 .contact_section input::-webkit-input-placeholder {

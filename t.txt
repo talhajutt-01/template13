@@ -4,7 +4,7 @@
     },
 
     "header": {
-        "h0": "Updated Ninom"
+        "h0": "Ninom"
     },
 
      "nav": {
@@ -17,22 +17,22 @@
     },
 
      "shop": {
-        "s0": " update Fruit shop",
-        "s1": "update There are many variations of passages of Lorem Ipsum available",
+        "s0": "Fruit shop",
+        "s1": "There are many variations of passages of Lorem Ipsum available",
         "s2": "Buy Now"
     },
 
      "about": {
-        "a0": "update About Our Fruit Shop",
+        "a0": "About Our Fruit Shop",
         "a1": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
         "a2": "Read More"
     },
 
       "fruit":{
-        "d0":"update Fresh Fruit",
+        "d0":"Fresh Fruit",
         "d1":"Orange",
         "d2":"Buy Now",
-        "d3":"update Blueberry",
+        "d3":"Blueberry",
         "d4":"Buy Now",
         "d5":"Banana",
         "d6":"Buy Now",
@@ -45,20 +45,20 @@
      },
 
      "client" : {
-        "t0":"updated  What Syas Cutomer",
-        "t1":" update Jone Mark",
+        "t0":"What Syas Cutomer",
+        "t1":"Jone Mark",
         "t2":"consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
         "t3":"Lorem ipsum dolor sit amet,",
-        "t4":" update Jone Mark",
+        "t4":"Jone Mark",
         "t5":"consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
         "t6":"Lorem ipsum dolor sit amet,",
-        "t7":"update Jone Mark",
+        "t7":"Jone Mark",
         "t8":"consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse",
         "t9":"Lorem ipsum dolor sit amet,"
      },
 
       "info": {
-        "c0": "updaet NiNom", 
+        "c0": "NiNom", 
         "c1": "Passages of Lorem Ipsum available",
         "c2": "Call : +012334567890",
         "c3": "demo@gmail.com"
@@ -70,12 +70,12 @@
      },
 
      "color":{
-        "nav":"grey",
-        "shop":"red",
-        "about":"grey",
-        "friut":"red",
-        "client":"red",
-        "info":"grey",
-        "footer":"red"
+        "nav":".",
+        "shop":".",
+        "about":".",
+        "friut":".",
+        "client":".",
+        "info":".",
+        "footer":"."
      }
 }    
